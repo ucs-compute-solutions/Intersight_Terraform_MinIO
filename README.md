@@ -32,4 +32,4 @@ The usage of the repository is very simple. The steps are:
 - When all policies and profiles got created then go to terraform-minio/deploy_profile and deploy the formerly created profiles
 - After the profiles got deployed then go to terraform-minio/install_os and install the operating system.
 
-For more details please refer to [link of WP]
+For more details please refer to https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/minio-object-storage-intersight-appliance-terraform-wp.pdf
